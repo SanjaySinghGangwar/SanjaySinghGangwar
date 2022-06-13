@@ -102,7 +102,7 @@
 
   
 
-➡️ [More Applications...](https://play.google.com/store/apps/dev?id=6966576360696302621)
+➡️ [More Applications...](https://sanjaysgangwar-2022.web.app/works.html)
 
   
 

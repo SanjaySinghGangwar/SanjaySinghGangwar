@@ -49,7 +49,7 @@
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/apple-ios-logo.png" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://common-apps-c8335.web.app/icon/android.svg" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" />
+<img align="left" alt="Visual Studio Code" width="06px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" />
 
 
 

@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Start Contribution Open Source projects
 
 - ⚡ Fun fact: I love to play free-roaming role-playing video games
 
@@ -47,6 +47,8 @@
 
   
 
+<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/apple-ios-logo.png" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://common-apps-c8335.web.app/icon/android.svg" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://common-apps-c8335.web.app/icon/android.svg" />
 
 

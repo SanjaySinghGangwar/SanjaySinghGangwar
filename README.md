@@ -121,12 +121,12 @@
 
 </details>
 <details>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hgnis" alt="agamkoradiya" /> </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgnis&theme=black-blue" alt="nameisjayant"/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="agamkoradiya" /> </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="nameisjayant"/>
 </details>
   
 
-[website]: https://common-apps-c8335.web.app/
+[website]: https://sanjaysgangwar-2022.web.app
 
 [course]: https://play.google.com/store/apps/dev?id=6966576360696302621
 

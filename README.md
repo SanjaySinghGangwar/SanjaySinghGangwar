@@ -66,7 +66,7 @@
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/c.svg" />
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/cpp.svg" />
 <img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/sqlite.svg" />
-<img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/python.svg" />
+<img align="left" alt="Sass" width="30px" src="https://common-apps-c8335.web.app/icon/python.svg" />
 
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/html.svg" />
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/css.svg" />

@@ -77,15 +77,18 @@
 <br  />
 
 <br  />
-### Contributions:
+
+
 </br>
+### Contributions:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
+
 ### Visits:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" /> </p>
 
 ### Languages :
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="SanjaySinghGangwar"/>
---
+
 
   
 

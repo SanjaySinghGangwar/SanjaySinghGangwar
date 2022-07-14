@@ -75,11 +75,15 @@
 <br  />
 
 <br  />
+--
 </br>
-<details>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="agamkoradiya" /> </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="nameisjayant"/>
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantkumar12&" alt="siddhantkumar12" /></p>
+--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="agamkoradiya" /> </p>
+--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="SanjaySinghGangwar"/>
+--
+
   
 
 [website]: https://sanjaysgangwar-2022.web.app

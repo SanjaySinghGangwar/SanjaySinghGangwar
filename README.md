@@ -66,7 +66,9 @@
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/c.svg" />
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/cpp.svg" />
 <img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/sqlite.svg" />
+<br/>
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/python.svg" />
+
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/html.svg" />
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/css.svg" />
 <img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/jee.svg" />
@@ -75,12 +77,13 @@
 <br  />
 
 <br  />
---
+### Contributions:
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantkumar12&" alt="siddhantkumar12" /></p>
---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="agamkoradiya" /> </p>
---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
+### Visits:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" /> </p>
+
+### Languages :
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="SanjaySinghGangwar"/>
 --
 

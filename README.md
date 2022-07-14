@@ -76,37 +76,6 @@
 
 <br  />
 
-  
-
----
-
-  
-
-### 📱 Latest App
-
-  
-
-<!-- YOUTUBE:START -->
-
--  [Desk Clock](https://play.google.com/store/apps/details?id=com.sanjaysgangwar.clock)
-
--  [Reader](https://play.google.com/store/apps/details?id=com.hgnis.reader)
-
--  [Translator](https://play.google.com/store/apps/details?id=com.theaverageguys.universaltranslator)
-
--  [Mate](https://play.google.com/store/apps/details?id=com.hgnis.soulmate)
-
--  [Sms Boomber](https://common-apps-c8335.web.app/smsBommber.html)
-
-<!-- YOUTUBE:END -->
-
-  
-
-➡️ [More Applications...](https://sanjaysgangwar-2022.web.app/works.html)
-
-  
-
----
  
 
 <details>

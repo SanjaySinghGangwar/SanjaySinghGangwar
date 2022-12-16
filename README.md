@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Sanjay S Gangwar - aka [hgnis][website] 👋
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" />
 
   
 
@@ -79,7 +79,7 @@
 
 
 ### Contributions & Languages :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="SanjaySinghGangwar"/>
 
 

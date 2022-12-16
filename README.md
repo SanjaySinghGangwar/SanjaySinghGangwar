@@ -1,13 +1,10 @@
 
 ### Hi there, I'm Sanjay S Gangwar - aka [hgnis][website] 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
 
   
 
 [![Website](https://img.shields.io/website?label=TAG.com&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaysgangwar-2022.web.app)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/hgnis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SanjayS_Gangwar)
-
-  
 
 ## I'm a Friend, Son, Developer, and Teacher!!
 
@@ -53,7 +50,7 @@
 
 
 
-<img align="left" alt="CSS3" width="26px" src="https://common-apps-c8335.web.app/icon/kotlin.svg" />
+<!-- <img align="left" alt="CSS3" width="26px" src="https://common-apps-c8335.web.app/icon/kotlin.svg" />
 <img align="left" alt="HTML5" width="16px" src="https://common-apps-c8335.web.app/icon/java.svg" />
 
 <img align="left" alt="Sass" width="100px" src="https://common-apps-c8335.web.app/icon/json.svg" />
@@ -70,7 +67,7 @@
 
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/html.svg" />
 <img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/css.svg" />
-<img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/jee.svg" />
+<img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/jee.svg" /> -->
 
 
 <br  />
@@ -81,17 +78,8 @@
 </br>
 
 
-### Contributions:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
-
-
-
-### Visits:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" /> </p>
-
-
-
-### Languages :
+### Contributions & Languages :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="SanjaySinghGangwar"/>
 
 

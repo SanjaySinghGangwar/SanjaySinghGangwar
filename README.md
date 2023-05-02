@@ -7,6 +7,11 @@
 [![Website](https://img.shields.io/website?label=TAG.com&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaysgangwar-2022.web.app)
 
 ## I'm a Friend, Son, Developer, and Teacher!!
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1128-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
   
 

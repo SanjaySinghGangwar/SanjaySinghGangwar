@@ -1,29 +1,28 @@
 
 ### Hi there, I'm Sanjay S Gangwar - aka [hgnis][website] 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" />
+[![Website](https://img.shields.io/website?label=protfolio&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaysgangwar-2022.web.app)
 
-  
+## I'm a Indie Developer and a part time gamer !!
 
-[![Website](https://img.shields.io/website?label=TAG.com&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaysgangwar-2022.web.app)
+Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently living in the silicon valley of india. I'm specialized in Android, iOS and Flutter. 
 
-## I'm a Friend, Son, Developer, and Teacher!!
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%207%20mins-blue)
+I have been developing apps for quite some time now and have been working with various clients from all over the world. 
+I know what it takes to develop a successful app and have expertise in building apps for various platforms like Android, iOS and Flutter. 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1128-blue)
+I am passionate about technology and love to keep myself updated with the latest trends in this domain.
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
+**My skills include: **
+- System Design 
+- System Architecture 
+- iOS Development 
+- Android Development 
+- Flutter Development 
+- HTML, CSS, JavaScript 
+- MERN Stack (L) 
+- PHP Development (Codeigniter) (Laravel) (L) 
+- Firebase Services Integration 
+- UI/UX Designing 
 
-  
-
-- 🔭 Here are the app I have made : [PlayStore][course]!
-
-- 🌱 I’m currently learning everything 🤣
-
-- 👯 I’m looking to collaborate with other content creators
-
-- 🥅 2022 Goals: Start Contribution Open Source projects
-
-- ⚡ Fun fact: I love to play free-roaming role-playing video games
 
   
 
@@ -85,14 +84,14 @@
 
 ### Contributions & Languages :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&theme=black-blue" alt="SanjaySinghGangwar"/>
+<img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" />
 
 
   
 
-[website]: https://sanjaysgangwar-2022.web.app
+[website]: https://sanjaygangwar.dev/
 
-[course]: https://play.google.com/store/apps/dev?id=6966576360696302621
+[course]: https://play.google.com/store/apps/developer?id=Trei
 
 [twitter]: https://twitter.com/SanjayS_Gangwar
 

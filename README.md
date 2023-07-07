@@ -38,6 +38,8 @@ I am passionate about technology and love to keep myself updated with the latest
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/social.svg" />][socialLink]
+
   
 
 <br  />
@@ -98,3 +100,5 @@ I am passionate about technology and love to keep myself updated with the latest
 [instagram]: https://www.instagram.com/hgnis_yajnas/
 
 [linkedin]: https://www.linkedin.com/in/gangwarssanjay/
+
+[socialLink]: https://sanjaygangwar.dev/social.html

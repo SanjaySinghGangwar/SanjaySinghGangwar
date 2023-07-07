@@ -27,7 +27,7 @@ I am passionate about technology and love to keep myself updated with the latest
 
     </div>
     <div>
-        [![Sanjay S Gangwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18792261)](https://stackoverflow.com/users/18792261/sanjay-s-gangwar)
+        
     </div>
 </div>
   
@@ -77,10 +77,7 @@ I am passionate about technology and love to keep myself updated with the latest
 <img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/jee.svg" /> -->
 <br  />
 <br  />
-
-
 </br>
-
 
 ### Contributions & Languages :
 

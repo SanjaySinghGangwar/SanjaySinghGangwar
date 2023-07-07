@@ -4,7 +4,9 @@
 
 ## I'm a Indie Developer and a part time gamer !!
 
-Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently living in the silicon valley of india. I'm specialized in Android, iOS and Flutter. 
+<div style="display: flex; justify-content: space-between;">
+    <div>
+       Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently living in the silicon valley of india. I'm specialized in Android, iOS and Flutter. 
 
 I have been developing apps for quite some time now and have been working with various clients from all over the world. 
 I know what it takes to develop a successful app and have expertise in building apps for various platforms like Android, iOS and Flutter. 
@@ -23,7 +25,11 @@ I am passionate about technology and love to keep myself updated with the latest
 - Firebase Services Integration 
 - UI/UX Designing 
 
-
+    </div>
+    <div>
+        [![Sanjay S Gangwar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18792261)](https://stackoverflow.com/users/18792261/sanjay-s-gangwar)
+    </div>
+</div>
   
 
 ### Connect with me:
@@ -77,9 +83,14 @@ I am passionate about technology and love to keep myself updated with the latest
 
 
 ### Contributions & Languages :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" /></p>
-<img src="https://komarev.com/ghpvc/?username=SanjaySinghGangwar" alt="SanjaySinghGangwar" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" />
+
+### Trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanjaySinghGangwar)](https://github.com/SanjaySinghGangwar/github-profile-trophy)
+
+### Hobby  :
+[![youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCSMItYU2eQdFjYrysjRzm_Q)](https://www.youtube.com/channel/UCSMItYU2eQdFjYrysjRzm_Q)
 [website]: https://sanjaygangwar.dev/
 
 [course]: https://play.google.com/store/apps/developer?id=Trei

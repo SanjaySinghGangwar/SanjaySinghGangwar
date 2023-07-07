@@ -4,9 +4,7 @@
 
 ## I'm a Indie Developer and a part time gamer !!
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-       Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently living in the silicon valley of india. I'm specialized in Android, iOS and Flutter. 
+Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently living in the silicon valley of india. I'm specialized in Android, iOS and Flutter. 
 
 I have been developing apps for quite some time now and have been working with various clients from all over the world. 
 I know what it takes to develop a successful app and have expertise in building apps for various platforms like Android, iOS and Flutter. 
@@ -24,12 +22,6 @@ I am passionate about technology and love to keep myself updated with the latest
 - PHP Development (Codeigniter) (Laravel) (L) 
 - Firebase Services Integration 
 - UI/UX Designing 
-
-    </div>
-    <div>
-        
-    </div>
-</div>
   
 
 ### Connect with me:
@@ -82,9 +74,6 @@ I am passionate about technology and love to keep myself updated with the latest
 ### Contributions & Languages :
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" />
-
-### Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=SanjaySinghGangwar)](https://github.com/SanjaySinghGangwar/github-profile-trophy)
 
 ### Hobby  :
 [![youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCSMItYU2eQdFjYrysjRzm_Q)](https://www.youtube.com/channel/UCSMItYU2eQdFjYrysjRzm_Q)

@@ -29,57 +29,6 @@ Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> b
   
 
-### Connect with me:
-
-  
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ionic.svg" />][socialLink]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-
-<br  />
-
-  
-
-### Languages and Tools:
-
-  
-
-<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/apple-ios-logo.png" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://common-apps-c8335.web.app/icon/android.svg" />
-<img align="left" alt="Visual Studio Code" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" />
-
-<!-- <img align="left" alt="CSS3" width="26px" src="https://common-apps-c8335.web.app/icon/kotlin.svg" />
-<img align="left" alt="HTML5" width="16px" src="https://common-apps-c8335.web.app/icon/java.svg" />
-
-<img align="left" alt="Sass" width="100px" src="https://common-apps-c8335.web.app/icon/json.svg" />
-<img align="left" alt="JavaScript" width="20px" src="https://common-apps-c8335.web.app/icon/firebase.svg" />
-
-<img align="left" alt="Sass" width="26px" src="https://common-apps-c8335.web.app/icon/google.svg" />
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/googleanalytics.svg" />
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/git.svg" />
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/admob.svg" />
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/c.svg" />
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/cpp.svg" />
-<img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/sqlite.svg" />
-<img align="left" alt="Sass" width="30px" src="https://common-apps-c8335.web.app/icon/python.svg" />
-
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/html.svg" />
-<img align="left" alt="Sass" width="20px" src="https://common-apps-c8335.web.app/icon/css.svg" />
-<img align="left" alt="Sass" width="50px" src="https://common-apps-c8335.web.app/icon/jee.svg" /> -->
-<br  />
-<br  />
-</br>
-
-### Contributions & Languages :
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjaySinghGangwar&" alt="SanjaySinghGangwar" />
-
 ### Hobby  :
 [![youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCSMItYU2eQdFjYrysjRzm_Q)](https://www.youtube.com/channel/UCSMItYU2eQdFjYrysjRzm_Q)
 

@@ -17,9 +17,6 @@ Hi, my name is Sanjay S Gangwar. I'm a complete mobile app developer. Currently 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
-### Hobby  :
-[![youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCSMItYU2eQdFjYrysjRzm_Q)](https://www.youtube.com/channel/UCSMItYU2eQdFjYrysjRzm_Q)
-
 [website]: https://sanjaygangwar.dev/
 
 [course]: https://play.google.com/store/apps/developer?id=Trei

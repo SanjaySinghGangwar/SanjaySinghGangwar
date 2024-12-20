@@ -34,7 +34,7 @@ Check out my blog for more insights into my work and experiences: [**My Blog**](
 ---
 
 ### Cloud
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23FF9900.svg?style=for-the-badge&logo=ubuntu-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -44,7 +44,7 @@ Check out my blog for more insights into my work and experiences: [**My Blog**](
 ---
 
 ### DevOps Tools  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) L
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) L  ![Ubuntu](https://img.shields.io/badge/ubuntu-%23FF9900.svg?style=for-the-badge&logo=ubuntu-aws&logoColor=white)
 
 ### Project Management
 

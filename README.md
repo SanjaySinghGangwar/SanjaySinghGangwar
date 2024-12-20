@@ -34,9 +34,6 @@ When I'm not coding, I’m an avid **gamer**, enjoy **solo traveling**, and love
 Check out my blog for more insights into my work and experiences: [**My Blog**](https://sanjaygangwar.dev/blog.html)
 
 
-
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SanjaySinghGangwar)](https://git.io/streak-stats) 
 
 

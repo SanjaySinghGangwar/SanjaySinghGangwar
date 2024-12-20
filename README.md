@@ -9,25 +9,6 @@ Hello! I'm **Sanjay S Gangwar**, a passionate mobile app developer with expertis
 
 I’m constantly evolving, always keeping up with the latest tech trends and innovations, which drives my passion for **mobile app development** and **cross-platform solutions**.
 
-### My Skills Include:
-- **System Design & Architecture**
-- **iOS Development** (Swift, Objective-C, Xcode)
-- **Android Development** (Java, Kotlin, Android Studio)
-- **Flutter Development** (Dart)
-- **Web Development** (HTML, CSS, JavaScript, React, Vue.js)
-- **Backend Development** (Node.js, Express, Python, Django, Flask, Java, PHP)
-- **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- **Database Management** (MongoDB, PostgreSQL, MySQL, SQLite, Firebase)
-- **API Development** (RESTful APIs, GraphQL, WebSockets)
-- **Authentication** (OAuth, JWT, Firebase Auth)
-- **Cloud Services** (Google Cloud, AWS, Firebase)
-- **Version Control** (Git, GitHub, GitLab, Bitbucket)
-- **CI/CD** (Jenkins, GitLab CI, Travis CI, CircleCI)
-- **UI/UX Design** (Figma, Sketch, Adobe XD)
-- **Automation** (Selenium, Appium)
-- **DevOps** (Docker, Kubernetes)
-- **AI/ML** (TensorFlow, PyTorch, Hugging Face Transformers)
-
 ### Outside of Development:
 When I'm not coding, I’m an avid **gamer**, enjoy **solo traveling**, and love spending time with colleagues, collaborating and having fun. I'm also deeply passionate about **building tech solutions** that integrate both **software and hardware**.
 

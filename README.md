@@ -5,14 +5,11 @@
 ## I'm a Indie Developer and a part time gamer !!
 
 # 💫 About Me:
-Hello! I'm **Sanjay S Gangwar**, a passionate mobile app developer with expertise in **Android**, **iOS**, and **Flutter**. Currently based in the **Silicon Valley of India**, I specialize in building innovative, high-performance, and user-friendly mobile applications. Over the years, I’ve had the opportunity to work with clients from all over the world, creating solutions that meet their unique needs.
+I'm a **full-stack mobile app developer** specializing in **Android (Kotlin, Java), iOS (Swift, SwiftUI), and Flutter (Dart)**. I build scalable apps with **RESTful APIs**, **Firebase**, **deep linking**, payment integrations, and **MVVM/MVP** architecture.
 
-I’m constantly evolving, always keeping up with the latest tech trends and innovations, which drives my passion for **mobile app development** and **cross-platform solutions**.
+On the backend, I work with **Node.js**, **Express**, and **MongoDB**, and I manage **DevOps** & cloud with **Ubuntu Server**, **AWS**, **GCP**, **CI/CD**, and **Docker**. I also explore **AI/ML**, **IoT (NodeMCU)**, and **self-hosted** solutions.
 
-### Outside of Development:
-When I'm not coding, I’m an avid **gamer**, enjoy **solo traveling**, and love spending time with colleagues, collaborating and having fun. I'm also deeply passionate about **building tech solutions** that integrate both **software and hardware**.
-
-Check out my blog for more insights into my work and experiences: [**My Blog**](https://sanjaygangwar.dev/blog.html)
+Beyond tech, I enjoy gaming, solo traveling, and sharing insights on [**My Blog**](https://sanjaygangwar.dev/blog.html).
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SanjaySinghGangwar)](https://git.io/streak-stats) 

@@ -1,201 +1,62 @@
+### Hi there, I'm Sanjay S Gangwar — aka [hgnis][website] 👋
+
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaygangwar.dev/)
+
+## Senior Mobile Developer | Digital Minimalist | Indie Maker from India 🇮🇳
+
+# 💫 About Me
+
+I'm a **Senior Full-Stack Mobile App Developer** and **Indie Maker** based in Bengaluru, specializing in building clean, scalable, and highly productive applications. With deep expertise across **Android (Kotlin, Java), iOS (Swift, SwiftUI), and Flutter (Dart)**, I architect apps utilizing **MVVM/MVP** patterns, **RESTful APIs**, and **Firebase**. 
+
+*   🔭 **Currently building:** **Minimal Launcher**, an Android application focused on digital minimalism to help users stay organized without visual noise.
+*   💼 **Experience:** From developing end-to-end mobile solutions with complex payment and deep-linking integrations to conducting technical engineering interviews. 
+*   ⚙️ **Backend & DevOps:** I power my apps using **Node.js, Express, and MongoDB**, managing the infrastructure with **Ubuntu Server, AWS, GCP, CI/CD, and Docker**.
+*   🌱 **Currently exploring:** AI/ML, IoT (NodeMCU), and self-hosted solutions.
+*   ⚡ **Beyond the screen:** When I'm not coding, you can find me playing on my PlayStation, out on a solo travel adventure, riding my motorcycle, or sharing insights on [**My Blog**](https://sanjaygangwar.dev/blog.html).
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C853&height=220&section=header&text=Sanjay%20S%20Gangwar&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Mobile%20Developer%20%7C%20Indie%20Builder%20%7C%20Self-Hosted%20Systems&descAlignY=58&descAlign=50" alt="Sanjay S Gangwar" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySinghGangwar&theme=react-dark&hide_border=true&bg_color=0D1117">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjaySinghGangwar&theme=react-dark&hide_border=true" alt="Sanjay's GitHub Activity Graph" width="100%" />
+  </picture>
 </div>
 
+<br>
+
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=00C853)](https://sanjaygangwar.dev)
-[![Blog](https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=hashnode&logoColor=00C853)](https://sanjaygangwar.dev/blog.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853)](https://linkedin.com/in/SanjaySinghGangwar)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C853)](https://github.com/SanjaySinghGangwar)
-
+  <img src="https://streak-stats.demolab.com/?user=SanjaySinghGangwar&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div align="center">
+# 💻 Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00C853&background=0D1117&center=true&vCenter=true&width=900&height=90&lines=%24+whoami+%E2%86%92+Sanjay+S+Gangwar;%24+role+%E2%86%92+Full-Stack+Mobile+App+Developer;%24+build+%E2%86%92+Android+%7C+iOS+%7C+Flutter+%7C+Backend+%7C+DevOps" alt="Terminal Intro" />
+### Mobile Development
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-</div>
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-6DA55F?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23E34A86.svg?style=for-the-badge&logo=java&logoColor=white) ![RESTful API](https://img.shields.io/badge/RESTful_API-%23000.svg?style=for-the-badge&logo=api&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-%230D4B90.svg?style=for-the-badge&logo=oauth&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-%23F7B731.svg?style=for-the-badge&logo=jwt&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
-## `$ cat about.md`
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23FF9900.svg?style=for-the-badge&logo=ubuntu-aws&logoColor=white)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Name-Sanjay%20S%20Gangwar-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
-      <br/>
-      <img src="https://img.shields.io/badge/Role-Full--Stack%20Mobile%20App%20Developer-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
-      <br/>
-      <img src="https://img.shields.io/badge/Focus-Android%20%7C%20iOS%20%7C%20Flutter%20%7C%20Backend%20Systems-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
-      <br/>
-      <img src="https://img.shields.io/badge/Architecture-MVVM%20%7C%20MVP%20%7C%20Clean%20Modules%20%7C%20Scalable%20Apps-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
-      <br/>
-      <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Ubuntu%20%7C%20Nginx%20%7C%20CI%2FCD%20%7C%20Cloud-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
-      <br/>
-      <img src="https://img.shields.io/badge/Experiments-AI%2FML%20%7C%20IoT%20%7C%20Automation%20%7C%20Self--Hosted%20Tools-0D1117?style=for-the-badge&labelColor=0D1117&color=00C853" />
-    </td>
-  </tr>
-</table>
+### Testing & Tools
+![Selenium](https://img.shields.io/badge/Selenium-%23E0E0E0.svg?style=for-the-badge&logo=selenium&logoColor=black) ![Appium](https://img.shields.io/badge/Appium-%23E94E77.svg?style=for-the-badge&logo=appium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-I build scalable, production-ready mobile applications across **Android**, **iOS**, and **Flutter**, backed by reliable APIs, clean architecture, and modern DevOps workflows.
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-%23FFB6C1.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-I also enjoy building and managing **self-hosted systems**, **Docker-based deployments**, **automation workflows**, **AI tools**, and cloud infrastructure.
+### Project Management
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
 
-## `$ ls tech_stack/`
+## 🌐 Connect with me:
 
-### `$ mobile`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SanjaySinghGangwar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SanjayS_Gangwar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@contact.gangwar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18792261) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hgnis_yajnas) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hgnisyajnas) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hgnis) 
 
-<p>
-  <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/iOS-0D1117?style=for-the-badge&logo=apple&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D1117?style=for-the-badge&logo=swift&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00C853" />
-</p>
-
-### `$ backend`
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/OAuth-0D1117?style=for-the-badge&logo=auth0&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00C853" />
-</p>
-
-### `$ devops`
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=00C853" />
-</p>
-
-### `$ tools`
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Appium-0D1117?style=for-the-badge&logo=appium&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=00C853" />
-</p>
-
-### `$ experiments`
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=arduino&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Self--Hosted-0D1117?style=for-the-badge&logo=linux&logoColor=00C853" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=gnubash&logoColor=00C853" />
-</p>
-
----
-
-## `$ cat what_i_build.txt`
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🟢 Mobile Applications</h3>
-      <p>
-        Native and cross-platform apps with clean UI, scalable architecture,
-        deep linking, payment flows, Firebase, analytics, and production-ready integrations.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🟢 Backend Systems</h3>
-      <p>
-        REST APIs, authentication flows, database-backed services,
-        admin tooling, and integrations using Node.js, Express, MongoDB, and Firebase.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🟢 DevOps & Hosting</h3>
-      <p>
-        Dockerized apps, Nginx routing, Ubuntu servers, CI/CD pipelines,
-        private services, and self-hosted infrastructure.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🟢 Automation & AI</h3>
-      <p>
-        Developer workflows, AI-assisted tooling, ML experiments,
-        app automation, IoT experiments, and productivity-focused systems.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## `$ git status --profile`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjaySinghGangwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&icon_color=00C853" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySinghGangwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SanjaySinghGangwar&hide_border=true&background=0D1117&stroke=00C853&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `$ ./connect.sh`
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=00C853)](https://sanjaygangwar.dev)
-[![Blog](https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=hashnode&logoColor=00C853)](https://sanjaygangwar.dev/blog.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853)](https://linkedin.com/in/SanjaySinghGangwar)
-[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00C853)](https://medium.com/@contact.gangwar)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=00C853)](https://stackoverflow.com/users/18792261)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00C853)](https://instagram.com/hgnis_yajnas)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00C853)](https://twitter.com/SanjayS_Gangwar)
-[![Twitch](https://img.shields.io/badge/Twitch-0D1117?style=for-the-badge&logo=twitch&logoColor=00C853)](https://twitch.tv/hgnis)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C853&background=0D1117&center=true&vCenter=true&width=760&height=80&lines=Code.+Build.+Ship.+Repeat.;Always+learning.+Always+building." alt="Footer Typing SVG" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=110&section=footer" alt="Footer" />
-
-</div>
+[website]: https://sanjaygangwar.dev/

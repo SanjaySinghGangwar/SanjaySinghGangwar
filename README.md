@@ -6,7 +6,7 @@
 
 [NOTE] GitHub retained for office use & collaboration only
 ```
-### Hi there, I'm Sanjay S Gangwar —  [<<ClickMe>>][website] 👋
+### Hi there, I'm Sanjay S Gangwar —  [<< Click Me >>][website] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaygangwar.dev/)
 

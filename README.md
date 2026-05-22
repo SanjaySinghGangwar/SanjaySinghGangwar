@@ -1,3 +1,11 @@
+```console
+[INFO] Migrating repositories...
+[OK] GitHub archived (since 22 Mar 2026)
+[OK] Gitea active
+[HOST] sanjaygangwar.dev
+
+[NOTE] GitHub retained for office use & collaboration only
+```
 ### Hi there, I'm Sanjay S Gangwar — aka [hgnis][website] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcommon-apps-c8335.web.app)](https://sanjaygangwar.dev/)

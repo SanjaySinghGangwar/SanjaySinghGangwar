@@ -1,10 +1,10 @@
 ```console
-[INFO] Migrating repositories...
-[OK] GitHub archived (since 22 Mar 2026)
-[OK] Gitea active
-[HOST] sanjaygangwar.dev
+[INFO] Repository migration complete
+[OK] Primary hosting → Gitea
+[OK] GitHub archived (22 Mar 2026)
 
-[NOTE] GitHub retained for office use & collaboration only
+[HOST] https://sanjaygangwar.dev
+[MODE] GitHub = office & collaboration only
 ```
 ### Hi there, I'm Sanjay S Gangwar — aka [hgnis][website] 👋
 
